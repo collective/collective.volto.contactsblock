@@ -16,35 +16,35 @@ msgstr ""
 
 #: ../profiles/default/controlpanel.xml
 msgid "Contacts Block settings"
-msgstr ""
+msgstr "Blocco contatti"
 
 #: ../configure.zcml:28
 msgid "Installs the collective.volto.contactsblock add-on."
-msgstr ""
+msgstr "Installa collective.volto.contactsblock"
 
 #: ../configure.zcml:37
 msgid "Uninstalls the collective.volto.contactsblock add-on."
-msgstr ""
+msgstr "Disinstalla collective.volto.contactsblock"
 
 #: ../configure.zcml:28
 msgid "collective.volto.contactsblock"
-msgstr ""
+msgstr "collective.volto.contactsblock"
 
 #: ../configure.zcml:37
 msgid "collective.volto.contactsblock (uninstall)"
-msgstr ""
+msgstr "collective.volto.contactsblock (disinstallazione)"
 
 #. Default: "Contacts Block Settings"
 #: ../browser/controlpanel.py:10
 msgid "contacts_block_settings_label"
-msgstr ""
+msgstr "Impostazioni blocco contatti"
 
 #. Default: "Manage contacts blocks."
 #: ../browser/controlpanel.py:11
 msgid "contacts_blocks_settings_description"
-msgstr ""
+msgstr "Gestione del blocco contatti"
 
 #. Default: "Contacts configuration"
 #: ../interfaces.py:17
 msgid "contacts_configuration_label"
-msgstr ""
+msgstr "Configurazione contatti"
