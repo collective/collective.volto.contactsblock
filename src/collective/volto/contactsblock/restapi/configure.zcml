@@ -16,5 +16,9 @@
 
   <cache:ruleset ruleset="plone.content.dynamic" for=".get.ContactsBlockGet" />
 
+  <adapter
+        factory=".controlpanel.ContactsBlockControlpanel"
+        provides="collective.volto.contactsblock.interfaces.IContactsBlock"
+        name="contacts-block-settings" />
 
 </configure>
