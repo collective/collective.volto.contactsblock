@@ -15,9 +15,6 @@ class PathSettingsFinder:
         self.settings = sorted(settings, key=lambda s: len(s["rootPath"]), reverse=True)
 
     def find(self, path):
-        import pdb
-
-        pdb.set_trace()
         if not path.startswith("/"):
             path = "/" + path
 
